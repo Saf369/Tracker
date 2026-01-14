@@ -30,4 +30,6 @@ cv2.imshow("Edges (Strings)", edges)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
+print("hello")
 
+ffyyhgvhgkgkhhlijknkkn
